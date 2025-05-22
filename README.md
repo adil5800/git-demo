@@ -1,3 +1,3 @@
 # git-demo
 my first repo
-Auther- Adil
+Author- Adil
