@@ -2,3 +2,5 @@
 my first repo
 <br>
 Author- Mohammad Adil
+<br>
+company name - openITlabz
