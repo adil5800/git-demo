@@ -4,4 +4,4 @@ my first repo
 Author- Mohammad Adil
 <br>
 company name - openITlabz
-pratapagarh
+pratapagarh U.P.
